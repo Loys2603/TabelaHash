@@ -1,6 +1,5 @@
-#        Tabela Hash - UNINTER
+#        Hash Table - UNINTER
 
 
 
-Elaboração básica de um trabalho prático.
-Disponivel para aperfeiçoamento!
+Basic preparation of a practical work. Available for improvement!
